@@ -40,7 +40,7 @@ This Power BI dashboard explores the impact of demographic and lifestyle factors
 
 
 ## 📊 Dashboard Screenshots
-![Screenshot of Dashboard 1](https://github.com/user-attachments/assets/6eb65936-364b-4302-b64e-7313f4ec08c5)
+![Screenshot of Dashboard 1](https://github.com/Apoorva-Kadureswamy/UK-Health-Insurance-Cost-Analysis-Dashboard/blob/main/Dashboard.jpg)
 
 
 ## 🔗 Dashboard File
