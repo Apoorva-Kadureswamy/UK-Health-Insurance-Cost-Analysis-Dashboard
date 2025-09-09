@@ -39,19 +39,11 @@ This Power BI dashboard explores the impact of demographic and lifestyle factors
 * Applied filters for dynamic analysis
 
 
-## 📊 Dashboard Screenshots
+## Dashboard Screenshots
 ![Screenshot of Dashboard 1](https://github.com/Apoorva-Kadureswamy/UK-Health-Insurance-Cost-Analysis-Dashboard/blob/main/Dashboard.jpg)
 
 
-## 🔗 Dashboard File
-
-* [Download PBIX File](./HEALTH_INS.pbix)
-
-> *(Make sure the `.pbix` file is included in the repo, or zipped with data for download)*
-
----
-
-## 💡 Key Insights
+## Key Insights
 
 * **Smokers pay 3x more** on average than non-smokers.
 * **Low exercise and poor diet** increase insurance costs, especially for smokers.
@@ -60,9 +52,8 @@ This Power BI dashboard explores the impact of demographic and lifestyle factors
 * **Regional differences** in charges exist, with Northern Ireland and South East showing variation.
 * **Families with more children** tend to have slightly higher charges.
 
----
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 * Power BI Dashboard Design
 * Data Modeling & DAX
@@ -70,26 +61,6 @@ This Power BI dashboard explores the impact of demographic and lifestyle factors
 * Insight Generation & Storytelling
 * Data Visualization Best Practices
 
----
 
-## 📌 Future Improvements
 
-* Add prediction using Power BI + Python/R scripts
-* Build page 2 with decomposition tree, correlation matrix, or what-if analysis
-* Time-based trends (if time column added)
 
----
-
-## 👤 Author
-
-**Apoorva Kadureswamy**
-Data Analyst | Power BI Developer
-[LinkedIn](#) | [Portfolio](#)
-
----
-
-Would you like me to generate this as a ready-to-upload **`README.md` file**?
-
-Or help you prepare a `screenshots/` folder and file links?
-
-Let me know what format you'd like!
